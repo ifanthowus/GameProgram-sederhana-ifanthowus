@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636335761 source:d:\gameku c\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+
